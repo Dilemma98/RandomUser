@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: darkseagreen;
+    padding: 2em;
+}
+main{
+    margin-top: 5em;
+}
+button{
+    padding: 1em;
+    border-radius: 1em;
+    margin-top: 2em;
+    margin-bottom: 5em;
+}
+button:hover{
+    background-color: darkseagreen;
+}
+#userInfo{
+    border: 1px solid black;
+    width: 40%;
+    padding: 2em;    
+    margin: auto;
+}
